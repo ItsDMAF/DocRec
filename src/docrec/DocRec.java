@@ -11,10 +11,8 @@ public class DocRec {
         
         Mi prioridad es ayudar a la gente,ayudando a los doctores
         mantener al dia la informacion de los pacientes 
-        */ 
-        
-        
-      /*
+         */
+        /*
         -Nombre
         -Edad
         -Sexo
@@ -43,8 +41,7 @@ public class DocRec {
         -Diagnostico
         - Y de acuerdo al diagnostico se le indican examenes de 
         lab o y otros tratamientos famacologicos
-        
-        */  
+         */
     }
-    
+
 }
